@@ -1,0 +1,7 @@
+If want the code to work then do this:
+- Register at "https://openweathermap.org"
+- Grab your API key and paste it into "main.py" file in the placeholder (8 line)
+- install "requests", "pycountry_convert" and "pillow"
+- for "flagpy" I changed the excel file a bit but it's necessary - just download "flagpy" folder from this project
+
+PS. Flag and weather images file will change, now they are random
